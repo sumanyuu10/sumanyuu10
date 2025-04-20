@@ -65,4 +65,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by Sumanyu Mahto</p>
+<p align="center">Made by Sumanyu Mahto</p>
