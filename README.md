@@ -84,4 +84,4 @@
 
 ---
 
-<p align="center">🚀 Made with passion by <b>Sumanyu Mahto</b> • 🌟 Thanks for visiting!</p>
+<p align="center">🌟 Thanks for visiting!</p>
