@@ -65,9 +65,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanyumahto&show_icons=true&theme=radical" alt="Sumanyu's GitHub stats" />
-</p>
-
 
 <p align="center">🚀 Made with passion by <b>Sumanyu Mahto</b> • 🌟 Thanks for visiting!</p>
