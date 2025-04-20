@@ -72,11 +72,15 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanyu-mahto-ab4662266/)
+<a href="https://www.linkedin.com/in/sumanyu-mahto-ab4662266/">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30" height="30" />
+</a>
 
 📧 [sumanyumahto@gmail.com](mailto:sumanyumahto@gmail.com)  
-🌍 New Delhi, India  
-🌐 [Personal Website](https://react-portfolio-sumanyu-a4md.vercel.app/)
+🌐 [Personal Website](https://react-portfolio-sumanyu-a4md.vercel.app/)  
+🌍 New Delhi, India
+
+
 
 ---
 
