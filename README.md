@@ -59,10 +59,15 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sumanyu-mahto-ab4662266/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanyu-mahto-ab4662266/)
 📧 sumanyumahto@gmail.com  
 🌍 New Delhi, India
 
 ---
 
-<p align="center">Made by Sumanyu Mahto</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanyumahto&show_icons=true&theme=radical" alt="Sumanyu's GitHub stats" />
+</p>
+
+
+<p align="center">🚀 Made with passion by <b>Sumanyu Mahto</b> • 🌟 Thanks for visiting!</p>
