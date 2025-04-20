@@ -22,7 +22,6 @@
 ### 👨‍💻 Programming & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web & Frameworks
@@ -50,20 +49,35 @@
 
 ## 🧠 Certifications
 
-- ✅ Google Cloud Certified Cloud Digital Leader  
-- ✅ AWS Academy Cloud Foundations
+<table>
+  <tr>
+    <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRywb6D3M3vuP4UHHpbvxqZkPBExNF7W5_g&s" width="80" />
+    </td>
+    <td>
+      <b>Google Cloud Certified:</b> Cloud Digital Leader
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png" width="80" />
+    </td>
+    <td>
+      <b>AWS Academy:</b> Cloud Foundations
+    </td>
+  </tr>
+</table>
 
 ---
-
-
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanyu-mahto-ab4662266/)
-📧 sumanyumahto@gmail.com  
-🌍 New Delhi, India
+
+📧 [sumanyumahto@gmail.com](mailto:sumanyumahto@gmail.com)  
+🌍 New Delhi, India  
+🌐 [Personal Website](https://react-portfolio-sumanyu-a4md.vercel.app/)
 
 ---
-
 
 <p align="center">🚀 Made with passion by <b>Sumanyu Mahto</b> • 🌟 Thanks for visiting!</p>
