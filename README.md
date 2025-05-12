@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 🎓 I'm currently pursuing B.Tech in Computer Science (IoT specialization) from VIT Vellore .  
-📍 Based in New Delhi, India  
+📍 Based in Bengaluru, India  
 💻 I love building scalable AI/ML applications and working on cloud-native projects.  
 🌱 Currently learning more about LLMs, MLOps, and advanced backend systems.
 
