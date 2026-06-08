@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanyu-mahto-ab4662266/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://react-portfolio-sumanyu-a4md.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumanyumahto@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sumanyumahto&color=1F4E79&style=flat&label=Profile+Views)](https://github.com/sumanyumahto)
 
 </div>
 
