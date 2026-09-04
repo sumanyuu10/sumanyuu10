@@ -27,7 +27,6 @@ My focus is on building practical ML systems — from computer vision and IoT-ba
 ---
 
 
----
 
 ## Tech Stack
 
