@@ -26,26 +26,6 @@ My focus is on building practical ML systems — from computer vision and IoT-ba
 
 ---
 
-## Featured Projects
-
-### 🧠 Brain Tumor Diagnosis — Deep Learning
-> CNN-based MRI classification system · Python · TensorFlow · Medical Imaging
-
-Automated tool to classify brain tumours as benign or malignant from MRI scans. Uses advanced image preprocessing and convolutional architectures to achieve reliable diagnostic accuracy — directly applicable to medical imaging pipelines like those at Siemens Healthineers.
-
----
-
-### 🌾 Crop Wise — ML + IoT Precision Agriculture
-> 99.1% accuracy · Python · Scikit-learn · Arduino · RESTful APIs
-
-End-to-end system combining machine learning crop recommendations with real-time IoT sensor data (soil moisture, weather). Demonstrates a full data pipeline from physical sensor ingestion to model prediction — similar to industrial IoT architectures.
-
----
-
-### 🍔 Foodi — Full-Stack E-Commerce App
-> React.js · Node.js · Express · MongoDB · Stripe
-
-Production-ready food ordering platform with cart management, admin order panel, and Stripe payment integration. Improved transaction success rates by 15% through UX and error-handling optimisation.
 
 ---
 
